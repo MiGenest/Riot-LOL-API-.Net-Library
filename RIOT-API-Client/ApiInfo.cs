@@ -10,24 +10,31 @@ namespace LOL_Riot_Api_Client
         private static readonly object Locker = new object();
         internal string RiotApiKey { get; set; }
 
-        // property to get thread-safe singleton instance
-        public static ApiInfo GetInstance
+        private ApiInfo()
         {
-            get
-            {
+
+        }
+
+        private ApiInfo(string key)
+        {
+            this.RiotApiKey = key;
+        }
+
+        // method to get thread-safe singleton instance
+        public static ApiInfo GetApiConfigInstance(string key)
+        {
                 if(instance == null)
                 {
                     lock (Locker)
                     {
                         if (instance == null)
                         {
-                            instance = new ApiInfo();
+                            instance = new ApiInfo(key);
                         }
                     }
                 }
 
                 return instance;   
-            }
         }
 
 
