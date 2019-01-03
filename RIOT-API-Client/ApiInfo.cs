@@ -8,7 +8,7 @@ namespace LOL_Riot_Api_Client
     {
         private static ApiInfo instance;
         private static readonly object Locker = new object();
-
+        internal string RiotApiKey { get; set; }
 
         // property to get thread-safe singleton instance
         public static ApiInfo GetInstance
@@ -30,8 +30,7 @@ namespace LOL_Riot_Api_Client
             }
         }
 
-        internal readonly string RiotApiKey =
-          "RGAPI-639ff8e9-40fb-4daa-a70f-78cc2865455b";
+
 
     }
 }
