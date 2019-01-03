@@ -1,0 +1,9 @@
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\obj\Debug\netstandard2.0\LOL-Riot-Api-Client.csprojAssemblyReference.cache
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\obj\Debug\netstandard2.0\LOL-Riot-Api-Client.csproj.CoreCompileInputs.cache
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\obj\Debug\netstandard2.0\LOL-Riot-Api-Client.AssemblyInfoInputs.cache
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\obj\Debug\netstandard2.0\LOL-Riot-Api-Client.AssemblyInfo.cs
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\bin\Debug\netstandard2.0\LOL-Riot-Api-Client.deps.json
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\bin\Debug\netstandard2.0\LOL-Riot-Api-Client.dll
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\bin\Debug\netstandard2.0\LOL-Riot-Api-Client.pdb
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\obj\Debug\netstandard2.0\LOL-Riot-Api-Client.dll
+C:\Users\Tornike-AnyWare\source\repos\LOL-Client\RIOT-API-Client\obj\Debug\netstandard2.0\LOL-Riot-Api-Client.pdb
